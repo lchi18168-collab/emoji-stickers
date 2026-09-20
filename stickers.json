@@ -982,6 +982,21 @@
    "source": "inbox",
    "created_at": "2026-09-20T14:03:35+08:00",
    "used_count": 0
+  },
+  "ca0d9b93ac.jpg": {
+   "id": "ca0d9b93ac.jpg",
+   "filename": "ca0d9b93ac.jpg",
+   "hash": "ca0d9b93ac02a26cfa9ecb3ea6d32fd268964f38",
+   "tags": [
+    "熬夜",
+    "失眠",
+    "疲惫"
+   ],
+   "mood": "无语",
+   "description": "黑眼圈简笔小人，疲惫麻木",
+   "source": "inbox",
+   "created_at": "2026-09-20T14:03:50+08:00",
+   "used_count": 0
   }
  }
 }
