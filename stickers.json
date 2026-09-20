@@ -847,6 +847,21 @@
    "source": "inbox",
    "created_at": "2026-09-20T14:02:43+08:00",
    "used_count": 0
+  },
+  "8423a86eba.jpg": {
+   "id": "8423a86eba.jpg",
+   "filename": "8423a86eba.jpg",
+   "hash": "8423a86ebad3c5b6b6f0382851cc710ca94ca3ea",
+   "tags": [
+    "呆萌",
+    "简笔画",
+    "小白兽"
+   ],
+   "mood": "可爱",
+   "description": "穿蓝纹衣的小白兽，呆滞",
+   "source": "inbox",
+   "created_at": "2026-09-20T14:02:48+08:00",
+   "used_count": 0
   }
  }
 }
