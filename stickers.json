@@ -1072,6 +1072,21 @@
    "source": "inbox",
    "created_at": "2026-09-20T14:04:26+08:00",
    "used_count": 0
+  },
+  "b9c10d23d8.jpg": {
+   "id": "b9c10d23d8.jpg",
+   "filename": "b9c10d23d8.jpg",
+   "hash": "b9c10d23d8cf422a15e9e728bd4a67e0fd8bb3de",
+   "tags": [
+    "沙雕",
+    "得意",
+    "人骑猫"
+   ],
+   "mood": "开心",
+   "description": "人骑猫：快哉快哉",
+   "source": "inbox",
+   "created_at": "2026-09-20T14:04:34+08:00",
+   "used_count": 0
   }
  }
 }
