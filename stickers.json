@@ -832,6 +832,21 @@
    "source": "inbox",
    "created_at": "2026-09-20T14:02:36+08:00",
    "used_count": 0
+  },
+  "7c476da758.jpg": {
+   "id": "7c476da758.jpg",
+   "filename": "7c476da758.jpg",
+   "hash": "7c476da758bb275170cf37f4b1e46bb63beba189",
+   "tags": [
+    "怪鱼",
+    "无语",
+    "简笔画"
+   ],
+   "mood": "无语",
+   "description": "半闭眼的手绘怪鱼，无语无奈",
+   "source": "inbox",
+   "created_at": "2026-09-20T14:02:43+08:00",
+   "used_count": 0
   }
  }
 }
