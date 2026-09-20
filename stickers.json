@@ -997,6 +997,21 @@
    "source": "inbox",
    "created_at": "2026-09-20T14:03:50+08:00",
    "used_count": 0
+  },
+  "088e4f4f51.jpg": {
+   "id": "088e4f4f51.jpg",
+   "filename": "088e4f4f51.jpg",
+   "hash": "088e4f4f516f800d03bf272f602fc4be9dc8a3af",
+   "tags": [
+    "像素",
+    "爱心",
+    "治愈"
+   ],
+   "mood": "可爱",
+   "description": "像素小萌物送出爱心",
+   "source": "inbox",
+   "created_at": "2026-09-20T14:03:57+08:00",
+   "used_count": 0
   }
  }
 }
