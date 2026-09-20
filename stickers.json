@@ -892,6 +892,21 @@
    "source": "inbox",
    "created_at": "2026-09-20T14:03:00+08:00",
    "used_count": 0
+  },
+  "9ffc54b281.jpg": {
+   "id": "9ffc54b281.jpg",
+   "filename": "9ffc54b281.jpg",
+   "hash": "9ffc54b281adc144f54ebb0affdcf8c43f65b63c",
+   "tags": [
+    "猫猫",
+    "流泪",
+    "破防"
+   ],
+   "mood": "哭哭",
+   "description": "流泪猫猫：那种感觉又上来了",
+   "source": "inbox",
+   "created_at": "2026-09-20T14:03:07+08:00",
+   "used_count": 0
   }
  }
 }
