@@ -907,6 +907,21 @@
    "source": "inbox",
    "created_at": "2026-09-20T14:03:07+08:00",
    "used_count": 0
+  },
+  "c12dc6713e.jpg": {
+   "id": "c12dc6713e.jpg",
+   "filename": "c12dc6713e.jpg",
+   "hash": "c12dc6713e847b1b0bfa23a30945d23910bdcbdd",
+   "tags": [
+    "小狗",
+    "委屈",
+    "泪汪汪"
+   ],
+   "mood": "委屈",
+   "description": "小白狗泪眼汪汪，委屈巴巴",
+   "source": "inbox",
+   "created_at": "2026-09-20T14:03:12+08:00",
+   "used_count": 0
   }
  }
 }
