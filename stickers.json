@@ -937,6 +937,21 @@
    "source": "inbox",
    "created_at": "2026-09-20T14:03:18+08:00",
    "used_count": 0
+  },
+  "4945b7f9ad.jpg": {
+   "id": "4945b7f9ad.jpg",
+   "filename": "4945b7f9ad.jpg",
+   "hash": "4945b7f9ad749313392706d5a2f8d9120d11fd78",
+   "tags": [
+    "猫猫",
+    "特写",
+    "呆"
+   ],
+   "mood": "可爱",
+   "description": "橘白猫脸极近特写，好奇无辜",
+   "source": "inbox",
+   "created_at": "2026-09-20T14:03:23+08:00",
+   "used_count": 0
   }
  }
 }
