@@ -1012,6 +1012,21 @@
    "source": "inbox",
    "created_at": "2026-09-20T14:03:57+08:00",
    "used_count": 0
+  },
+  "078713745e.jpg": {
+   "id": "078713745e.jpg",
+   "filename": "078713745e.jpg",
+   "hash": "078713745e8ca93d23aa034d393c30f6f6bb9339",
+   "tags": [
+    "团子",
+    "开心",
+    "可爱"
+   ],
+   "mood": "开心",
+   "description": "黄色手绘团子，开心期待",
+   "source": "inbox",
+   "created_at": "2026-09-20T14:04:09+08:00",
+   "used_count": 0
   }
  }
 }
