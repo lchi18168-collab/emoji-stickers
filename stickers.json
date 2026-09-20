@@ -922,6 +922,21 @@
    "source": "inbox",
    "created_at": "2026-09-20T14:03:12+08:00",
    "used_count": 0
+  },
+  "2eeb603981.jpg": {
+   "id": "2eeb603981.jpg",
+   "filename": "2eeb603981.jpg",
+   "hash": "2eeb603981f8c17c6c3c0262cbe5248e716270fe",
+   "tags": [
+    "小狗",
+    "玉米",
+    "搞笑"
+   ],
+   "mood": "可爱",
+   "description": "小白狗叼着玉米，呆萌",
+   "source": "inbox",
+   "created_at": "2026-09-20T14:03:18+08:00",
+   "used_count": 0
   }
  }
 }
