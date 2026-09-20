@@ -1057,6 +1057,21 @@
    "source": "inbox",
    "created_at": "2026-09-20T14:04:20+08:00",
    "used_count": 0
+  },
+  "57d418997b.jpg": {
+   "id": "57d418997b.jpg",
+   "filename": "57d418997b.jpg",
+   "hash": "57d418997b929245e5596c1c2a75e0783d7a5079",
+   "tags": [
+    "猫猫贴贴",
+    "撒娇",
+    "情侣"
+   ],
+   "mood": "抱抱",
+   "description": "两只橘白猫头叠头一起没干嘛",
+   "source": "inbox",
+   "created_at": "2026-09-20T14:04:26+08:00",
+   "used_count": 0
   }
  }
 }
