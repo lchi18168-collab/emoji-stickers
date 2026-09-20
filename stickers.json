@@ -1087,6 +1087,21 @@
    "source": "inbox",
    "created_at": "2026-09-20T14:04:34+08:00",
    "used_count": 0
+  },
+  "b265e3b93c.jpg": {
+   "id": "b265e3b93c.jpg",
+   "filename": "b265e3b93c.jpg",
+   "hash": "b265e3b93c451673d293a141fd01e96d78ec1ebf",
+   "tags": [
+    "小黄脸",
+    "看手机",
+    "窃喜"
+   ],
+   "mood": "开心",
+   "description": "黄色圆脸人拿手机眯眼笑",
+   "source": "inbox",
+   "created_at": "2026-09-20T14:04:39+08:00",
+   "used_count": 0
   }
  }
 }
