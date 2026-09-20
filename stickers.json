@@ -1102,6 +1102,21 @@
    "source": "inbox",
    "created_at": "2026-09-20T14:04:39+08:00",
    "used_count": 0
+  },
+  "2751df607a.jpg": {
+   "id": "2751df607a.jpg",
+   "filename": "2751df607a.jpg",
+   "hash": "2751df607a36704d5b2c63c8b5ea8ed0e463d72c",
+   "tags": [
+    "小狗",
+    "摇滚",
+    "嗨起来"
+   ],
+   "mood": "开心",
+   "description": "棕小狗张嘴配两个摇滚手势",
+   "source": "inbox",
+   "created_at": "2026-09-20T14:04:45+08:00",
+   "used_count": 0
   }
  }
 }
