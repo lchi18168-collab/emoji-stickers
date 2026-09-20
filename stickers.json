@@ -952,6 +952,21 @@
    "source": "inbox",
    "created_at": "2026-09-20T14:03:23+08:00",
    "used_count": 0
+  },
+  "f14d3ef26f.jpg": {
+   "id": "f14d3ef26f.jpg",
+   "filename": "f14d3ef26f.jpg",
+   "hash": "f14d3ef26fe70cfbc220dcaa910f9802bb8145e7",
+   "tags": [
+    "小狗",
+    "心碎",
+    "破防"
+   ],
+   "mood": "哭哭",
+   "description": "糊狗配心碎符号，我裂开了",
+   "source": "inbox",
+   "created_at": "2026-09-20T14:03:30+08:00",
+   "used_count": 0
   }
  }
 }
