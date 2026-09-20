@@ -877,6 +877,21 @@
    "source": "inbox",
    "created_at": "2026-09-20T14:02:55+08:00",
    "used_count": 0
+  },
+  "5bf6306d43.jpg": {
+   "id": "5bf6306d43.jpg",
+   "filename": "5bf6306d43.jpg",
+   "hash": "5bf6306d43241975cda4007c26a5ed22a461d6a8",
+   "tags": [
+    "猫猫",
+    "糊图",
+    "求求你"
+   ],
+   "mood": "委屈",
+   "description": "糊掉猫脸大特写配字咔，眼巴巴",
+   "source": "inbox",
+   "created_at": "2026-09-20T14:03:00+08:00",
+   "used_count": 0
   }
  }
 }
