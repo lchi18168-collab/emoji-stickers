@@ -1027,6 +1027,21 @@
    "source": "inbox",
    "created_at": "2026-09-20T14:04:09+08:00",
    "used_count": 0
+  },
+  "4823a35e94.jpg": {
+   "id": "4823a35e94.jpg",
+   "filename": "4823a35e94.jpg",
+   "hash": "4823a35e941365150dac8547784e116d4a22970c",
+   "tags": [
+    "猫猫",
+    "自嘲",
+    "手机没电"
+   ],
+   "mood": "无语",
+   "description": "猫猫沉思：手机刚刚被我玩没电了",
+   "source": "inbox",
+   "created_at": "2026-09-20T14:04:14+08:00",
+   "used_count": 0
   }
  }
 }
