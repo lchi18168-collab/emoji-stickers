@@ -967,6 +967,21 @@
    "source": "inbox",
    "created_at": "2026-09-20T14:03:30+08:00",
    "used_count": 0
+  },
+  "77e02ff5f5.jpg": {
+   "id": "77e02ff5f5.jpg",
+   "filename": "77e02ff5f5.jpg",
+   "hash": "77e02ff5f5b3adf3853751c48f5c079b2d79ef81",
+   "tags": [
+    "震惊",
+    "简笔画",
+    "手机"
+   ],
+   "mood": "吃惊",
+   "description": "趴着看手机的简笔小人，头顶双感叹号",
+   "source": "inbox",
+   "created_at": "2026-09-20T14:03:35+08:00",
+   "used_count": 0
   }
  }
 }
